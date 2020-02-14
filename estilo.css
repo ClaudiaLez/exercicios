@@ -1,0 +1,55 @@
+body{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: dimgray;
+    text-align: justify;
+    line-height: 1.5;
+    font-family: verdana;
+    background-image: url(../imagens/bg1.png);
+    background-repeat: repeat-y;
+    background-position: right;
+}
+.subtitulo{
+    color: orangered;
+    
+}
+h1{
+    color: orangered;
+    text-align: center;
+    text-decoration: underline;
+}
+.botao{
+    text-decoration: none;
+    color: white;
+    background-color: #3b5998;
+    padding: 10px;
+    border-radius: 4px;
+}
+table,td,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: dimgray;
+    color: white;
+}
+
+table{
+    width: 50%;
+}
+td{
+    background-color: aliceblue;
+}
+
+#paragrafo{
+    padding-left: 200px;
+    font-style: italic;
+}
+
+#unico{
+    background-color: yellow;
+}
+#google{
+    width: 50px;
+}
